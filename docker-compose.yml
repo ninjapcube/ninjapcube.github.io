@@ -1,0 +1,6 @@
+pcube-web:
+  image: jekyll/jekyll
+  ports:
+    - "80:4000"
+  volumes:
+    - .:/srv/jekyll

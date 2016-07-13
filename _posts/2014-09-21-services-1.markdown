@@ -1,0 +1,9 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Période de focus
+description: |
+---
+  Retourne ton PCube pour démarrer un décompte de focus. Pendant ce temps concentre-toi sur ta tâche et rien d'autre.
+  
